@@ -1,0 +1,202 @@
+[
+  {
+      "questionNo": "Q1.",
+      "question": "What did Tim hear while walking through the forest?",
+      "options": [
+          "A loud trumpet",
+          "A soft sound",
+          "A scary noise"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q2.",
+      "question": "How did Tim help the young elephant?",
+      "options": [
+          "He untangled its trunk",
+          "He fed it oranges",
+          "He made it a new home"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q3.",
+      "question": "What did Jumbo do when he sensed Tim was lost?",
+      "options": [
+          "He played with other animals",
+          "He went back to the village",
+          "He searched for Tim"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q4.",
+      "question": "Which word is an adjective in this sentence?<br> 'The tall tree swayed in the wind.'",
+      "options": [
+          "swayed",
+          "tree",
+          "tall"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q5.",
+      "question": "Which word is an adverb in this sentence?<br> 'She sings beautifully.'",
+      "options": [
+          "sings",
+          "she",
+          "beautifully"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q6.",
+      "question": "What is the adjective in the sentence?<br> 'The fluffy dog barked loudly.'",
+      "options": [
+          "fluffy",
+          "loudly",
+          "barked"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q7.",
+      "question": "Which word tells how the cat moved?<br> 'The cat ran quickly.'",
+      "options": [
+          "ran",
+          "quickly",
+          "cat"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q8.",
+      "question": "Choose the adjective:<br> 'The bright sun shone in the sky.'",
+      "options": [
+          "shone",
+          "sun",
+          "bright"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q9.",
+      "question": "What is the adverb in this sentence?<br> 'The dog barked loudly.'",
+      "options": [
+          "dog",
+          "barked",
+          "loudly"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q10.",
+      "question": "Which word describes the noun?<br> 'The small mouse hid in the hole.'",
+      "options": [
+          "hid",
+          "small",
+          "mouse"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q11.",
+      "question": "Identify the word that is an adjective:",
+      "options": [
+          "Small",
+          "Run",
+          "Quickly"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q12.",
+      "question": "Identify the word that is an adjective:",
+      "options": [
+          "Fast",
+          "Dance",
+          "Beautifully"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q13.",
+      "question": "Identify the word that is an adverb:",
+      "options": [
+          "Large",
+          "Loudly",
+          "Bird"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q14.",
+      "question": "Identify the word that is an adverb:",
+      "options": [
+          "Cat",
+          "Quickly",
+          "Happy"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q15.",
+      "question": "Identify the word that is an adjective:",
+      "options": [
+          "Happily",
+          "Dance",
+          "Sweet"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q16.",
+      "question": "Which word is an adverb in this sentence?<br> 'They played outside yesterday.'",
+      "options": [
+          "played",
+          "outside",
+          "yesterday"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q17.",
+      "question": "What tells how the boy ran?<br> 'The boy ran fast.'",
+      "options": [
+          "boy",
+          "ran",
+          "fast"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q18.",
+      "question": "Which word is an adjective?<br> 'The sweet candy is my favourite.'",
+      "options": [
+          "sweet",
+          "candy",
+          "favourite"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q19.",
+      "question": "Identify the adverb:<br> 'She spoke softly.'",
+      "options": [
+          "spoke",
+          "softly",
+          "she"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q20.",
+      "question": "Choose the adjective in this sentence:<br> 'The shiny car drove down the street.'",
+      "options": [
+          "shiny",
+          "car",
+          "drove"
+      ],
+      "correct": 0
+  }
+]
